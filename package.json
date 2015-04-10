@@ -1,0 +1,27 @@
+{
+  "name": "pullrequestdashboard",
+  "version": "0.1.0",
+  "description": "Simple Aggregate PR dashboard",
+  "main": "main.js",
+  "scripts": {
+    "test": "gulp karma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:msarchet/pullrequestdashboard"
+  },
+  "keywords": [
+    "git",
+    "vso",
+    "pullrequests"
+  ],
+  "author": "mikesarchet@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msarchet/pullrequestdashboard/issues"
+  },
+  "homepage": "https://github.com/msarchet/pullrequestdashboard",
+  "dependencies": {
+    "request": "^2.55.0"
+  }
+}
